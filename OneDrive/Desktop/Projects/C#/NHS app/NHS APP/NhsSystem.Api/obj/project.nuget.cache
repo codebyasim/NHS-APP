@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "39I69C1/H6M=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\iasim\\OneDrive\\Desktop\\Projects\\C#\\NHS app\\NHS APP\\NhsSystem.Api\\NhsSystem.Api.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\iasim\\.nuget\\packages\\microsoft.aspnetcore.openapi\\10.0.11\\microsoft.aspnetcore.openapi.10.0.11.nupkg.sha512",
+    "C:\\Users\\iasim\\.nuget\\packages\\microsoft.openapi\\2.7.5\\microsoft.openapi.2.7.5.nupkg.sha512"
+  ],
+  "logs": []
+}

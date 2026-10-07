@@ -1,0 +1,7 @@
+<Solution>
+  <Project Path="NhsSystem.Api/NhsSystem.Api.csproj" />
+  <Project Path="NhsSystem.Application/NhsSystem.Application.csproj" />
+  <Project Path="NhsSystem.Blazor/NhsSystem.Blazor.csproj" />
+  <Project Path="NhsSystem.Domain/NhsSystem.Domain.csproj" />
+  <Project Path="NhsSystem.Infrastructure/NhsSystem.Infrastructure.csproj" />
+</Solution>
