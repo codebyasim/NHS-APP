@@ -11,6 +11,29 @@
         "buildMultiTargeting": {
           "buildMultiTargeting/Microsoft.AspNetCore.App.Internal.Assets.targets": {}
         }
+      },
+      "NhsSystem.Application/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v10.0",
+        "dependencies": {
+          "NhsSystem.Domain": "1.0.0"
+        },
+        "compile": {
+          "bin/placeholder/NhsSystem.Application.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/NhsSystem.Application.dll": {}
+        }
+      },
+      "NhsSystem.Domain/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v10.0",
+        "compile": {
+          "bin/placeholder/NhsSystem.Domain.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/NhsSystem.Domain.dll": {}
+        }
       }
     }
   },
@@ -37,11 +60,22 @@
         "microsoft.aspnetcore.app.internal.assets.10.0.11.nupkg.sha512",
         "microsoft.aspnetcore.app.internal.assets.nuspec"
       ]
+    },
+    "NhsSystem.Application/1.0.0": {
+      "type": "project",
+      "path": "../NhsSystem.Application/NhsSystem.Application.csproj",
+      "msbuildProject": "../NhsSystem.Application/NhsSystem.Application.csproj"
+    },
+    "NhsSystem.Domain/1.0.0": {
+      "type": "project",
+      "path": "../NhsSystem.Domain/NhsSystem.Domain.csproj",
+      "msbuildProject": "../NhsSystem.Domain/NhsSystem.Domain.csproj"
     }
   },
   "projectFileDependencyGroups": {
     "net10.0": [
-      "Microsoft.AspNetCore.App.Internal.Assets >= 10.0.11"
+      "Microsoft.AspNetCore.App.Internal.Assets >= 10.0.11",
+      "NhsSystem.Application >= 1.0.0"
     ]
   },
   "packageFolders": {
@@ -69,7 +103,11 @@
         "net10.0": {
           "framework": "net10.0",
           "targetAlias": "net10.0",
-          "projectReferences": {}
+          "projectReferences": {
+            "C:\\Users\\iasim\\OneDrive\\Desktop\\Projects\\C#\\NHS app\\NHS APP\\NhsSystem.Application\\NhsSystem.Application.csproj": {
+              "projectPath": "C:\\Users\\iasim\\OneDrive\\Desktop\\Projects\\C#\\NHS app\\NHS APP\\NhsSystem.Application\\NhsSystem.Application.csproj"
+            }
+          }
         }
       },
       "warningProperties": {

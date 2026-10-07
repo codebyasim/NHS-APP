@@ -1,0 +1,55 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v10.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v10.0": {
+      "NhsSystem.Blazor/1.0.0": {
+        "dependencies": {
+          "NhsSystem.Application": "1.0.0"
+        },
+        "runtime": {
+          "NhsSystem.Blazor.dll": {}
+        }
+      },
+      "NhsSystem.Application/1.0.0": {
+        "dependencies": {
+          "NhsSystem.Domain": "1.0.0"
+        },
+        "runtime": {
+          "NhsSystem.Application.dll": {
+            "assemblyVersion": "1.0.0.0",
+            "fileVersion": "1.0.0.0"
+          }
+        }
+      },
+      "NhsSystem.Domain/1.0.0": {
+        "runtime": {
+          "NhsSystem.Domain.dll": {
+            "assemblyVersion": "1.0.0.0",
+            "fileVersion": "1.0.0.0"
+          }
+        }
+      }
+    }
+  },
+  "libraries": {
+    "NhsSystem.Blazor/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "NhsSystem.Application/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "NhsSystem.Domain/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

@@ -1,0 +1,16 @@
+C:\Users\iasim\OneDrive\Desktop\Projects\C#\NHS app\NHS APP\NhsSystem.Application\bin\Debug\net10.0\NhsSystem.Application.deps.json
+C:\Users\iasim\OneDrive\Desktop\Projects\C#\NHS app\NHS APP\NhsSystem.Application\bin\Debug\net10.0\NhsSystem.Application.dll
+C:\Users\iasim\OneDrive\Desktop\Projects\C#\NHS app\NHS APP\NhsSystem.Application\bin\Debug\net10.0\NhsSystem.Application.pdb
+C:\Users\iasim\OneDrive\Desktop\Projects\C#\NHS app\NHS APP\NhsSystem.Application\bin\Debug\net10.0\NhsSystem.Domain.dll
+C:\Users\iasim\OneDrive\Desktop\Projects\C#\NHS app\NHS APP\NhsSystem.Application\bin\Debug\net10.0\NhsSystem.Domain.pdb
+C:\Users\iasim\OneDrive\Desktop\Projects\C#\NHS app\NHS APP\NhsSystem.Application\obj\Debug\net10.0\NhsSystem.Application.csproj.AssemblyReference.cache
+C:\Users\iasim\OneDrive\Desktop\Projects\C#\NHS app\NHS APP\NhsSystem.Application\obj\Debug\net10.0\NhsSystem.Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\iasim\OneDrive\Desktop\Projects\C#\NHS app\NHS APP\NhsSystem.Application\obj\Debug\net10.0\NhsSystem.Application.AssemblyInfoInputs.cache
+C:\Users\iasim\OneDrive\Desktop\Projects\C#\NHS app\NHS APP\NhsSystem.Application\obj\Debug\net10.0\NhsSystem.Application.AssemblyInfo.cs
+C:\Users\iasim\OneDrive\Desktop\Projects\C#\NHS app\NHS APP\NhsSystem.Application\obj\Debug\net10.0\NhsSystem.Application.csproj.CoreCompileInputs.cache
+C:\Users\iasim\OneDrive\Desktop\Projects\C#\NHS app\NHS APP\NhsSystem.Application\obj\Debug\net10.0\NhsSystem.Application.sourcelink.json
+C:\Users\iasim\OneDrive\Desktop\Projects\C#\NHS app\NHS APP\NhsSystem.Application\obj\Debug\net10.0\NhsSyste.A216AE02.Up2Date
+C:\Users\iasim\OneDrive\Desktop\Projects\C#\NHS app\NHS APP\NhsSystem.Application\obj\Debug\net10.0\NhsSystem.Application.dll
+C:\Users\iasim\OneDrive\Desktop\Projects\C#\NHS app\NHS APP\NhsSystem.Application\obj\Debug\net10.0\refint\NhsSystem.Application.dll
+C:\Users\iasim\OneDrive\Desktop\Projects\C#\NHS app\NHS APP\NhsSystem.Application\obj\Debug\net10.0\NhsSystem.Application.pdb
+C:\Users\iasim\OneDrive\Desktop\Projects\C#\NHS app\NHS APP\NhsSystem.Application\obj\Debug\net10.0\ref\NhsSystem.Application.dll
